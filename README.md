@@ -1,6 +1,6 @@
 # Basic-CLI-Games
 
-All games are developed in C++
+These games are developed in C++
 
 1. Tic-Tac-Toe game developed with graphics library of C++
 2. Monty Hall problem
